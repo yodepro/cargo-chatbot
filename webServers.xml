@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f0eaf2cb-bf5d-4d53-adb9-b52e7d34c819" name="cargobot" url="http://ecards.myode.pro">
+        <fileTransfer host="ecards.myode.pro" port="22" rootFolder="/var/www/cargobot" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
