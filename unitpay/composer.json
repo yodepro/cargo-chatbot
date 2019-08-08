@@ -1,0 +1,24 @@
+{
+  "name":"unitpay/php-sdk",
+  "type": "library",
+  "description": "PHP SDK for UnitPay",
+  "keywords": ["unitpay","pay"],
+  "homepage": "https://github.com/unitpay/php-sdk",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "unitpay",
+      "email": "office@unitpay.ru",
+      "homepage": "https://unitpay.ru",
+      "role": "Developer"
+    }
+  ],
+  "require":{
+    "php":">=5.6.0"
+  },
+  "autoload":{
+    "classmap":[
+      "./UnitPay.php"
+    ]
+  }
+}

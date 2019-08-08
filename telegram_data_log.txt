@@ -1,0 +1,46 @@
+{
+    "update_id": 893434605,
+    "callback_query": {
+        "id": "2106675920765032092",
+        "from": {
+            "id": 490498710,
+            "is_bot": false,
+            "first_name": "Иван",
+            "language_code": "ru"
+        },
+        "message": {
+            "message_id": 10086,
+            "from": {
+                "id": 672227440,
+                "is_bot": true,
+                "first_name": "Cargo_search_bot",
+                "username": "Cargo_search_bot"
+            },
+            "chat": {
+                "id": 490498710,
+                "first_name": "Иван",
+                "type": "private"
+            },
+            "date": 1563641608,
+            "text": "Показать еще?",
+            "reply_markup": {
+                "inline_keyboard": [
+                    [
+                        {
+                            "text": "Да",
+                            "callback_data": "2.2.1"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "Нет",
+                            "callback_data": "0.1"
+                        }
+                    ]
+                ]
+            }
+        },
+        "chat_instance": "104644626713108660",
+        "data": "0.1"
+    }
+}

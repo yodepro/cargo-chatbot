@@ -1,0 +1,16 @@
+[12-Jul-2019 10:22:49 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /var/www/cargobot/classes/ati.class.php on line 56
+[12-Jul-2019 10:22:50 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /var/www/cargobot/classes/ati.class.php on line 56
+[12-Jul-2019 10:22:51 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /var/www/cargobot/classes/ati.class.php on line 540
+[12-Jul-2019 10:24:37 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /var/www/cargobot/classes/ati.class.php on line 56
+[12-Jul-2019 10:24:37 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /var/www/cargobot/classes/ati.class.php on line 56
+[12-Jul-2019 10:24:39 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /var/www/cargobot/classes/ati.class.php on line 540
+[12-Jul-2019 10:28:38 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /var/www/cargobot/classes/ati.class.php on line 98
+[12-Jul-2019 10:28:39 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /var/www/cargobot/classes/ati.class.php on line 98
+[15-Jul-2019 15:32:33 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /var/www/cargobot/classes/ati.class.php on line 98
+[15-Jul-2019 15:32:34 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /var/www/cargobot/classes/ati.class.php on line 98
+[15-Jul-2019 15:33:01 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /var/www/cargobot/classes/ati.class.php on line 98
+[15-Jul-2019 15:33:02 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /var/www/cargobot/classes/ati.class.php on line 98
+[16-Jul-2019 16:37:15 Europe/Moscow] PHP Notice:  Undefined index: starting in /var/www/cargobot/classes/kernel.class.php on line 466
+[16-Jul-2019 16:37:15 Europe/Moscow] PHP Notice:  Undefined index: destination in /var/www/cargobot/classes/kernel.class.php on line 467
+[16-Jul-2019 16:37:15 Europe/Moscow] PHP Notice:  Undefined index: tonnage in /var/www/cargobot/classes/kernel.class.php on line 472
+[20-Jul-2019 19:54:27 Europe/Moscow] PHP Notice:  Undefined index: totalCount in /var/www/cargobot/classes/viber.class.php on line 467

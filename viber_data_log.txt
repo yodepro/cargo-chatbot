@@ -1,0 +1,19 @@
+{
+    "event": "message",
+    "timestamp": 1563699603007,
+    "chat_hostname": "SN-CHAT-10_",
+    "message_token": 5333652403985275873,
+    "sender": {
+        "id": "2WvIHb2ayJbDU+MQQbhtLw==",
+        "name": "Женёк",
+        "avatar": "http://dl-media.viber.com/1/share/2/long/bots/generic-avatar%402x.png",
+        "language": "ru",
+        "country": "RU",
+        "api_version": 8
+    },
+    "message": {
+        "text": "#CallBackButton#{'lid':'1164','step':'1.2.1','time':1563699590,'id':'856'}",
+        "type": "text"
+    },
+    "silent": false
+}
