@@ -2,5 +2,6 @@
   <component name="UISettings">
     <option name="EDITOR_TAB_PLACEMENT" value="4" />
     <option name="MAX_LOOKUP_WIDTH2" value="795" />
+    <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
   </component>
 </application>
