@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7664a994-ce38-40c0-8cdb-892fabf027f9" name="punktauto" url="http://punktauto.ru">
+        <fileTransfer host="punktauto.ru" port="21" rootFolder="/cargobot">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
