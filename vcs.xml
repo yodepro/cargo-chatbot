@@ -30,6 +30,10 @@
           <option name="url" value="https://dancerh@bitbucket.org/pixelsband/hub.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://dancerh@bitbucket.org/pixhub/ui.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/PhpstormProjects" />
